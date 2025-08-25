@@ -1,5 +1,5 @@
-    #include <iostream>
-    #include <vector>
+#include <iostream>
+#include <vector>
 
     // Using standard namespace for simplicity
     using namespace std;
